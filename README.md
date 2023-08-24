@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @coroxi (Matheus Ribeiro)
-- 👀 I’m interested in ... Learning how to coding and beyond.
-- 🌱 I’m currently learning ... HTML5 + CSS3
-- 💞️ I’m looking to collaborate on ... everyone
-- 📫 How to reach me ... well you can find me in Brazil...but if you can't come to this beautifull place, www.facebook.com/coroxi or on instagram with @matheus_r1be1r0
+
